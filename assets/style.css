@@ -52,7 +52,7 @@ h3{
 
     background: #04c2c9;
     margin: 0px;
-    padding: 18px;
+    padding: 16px;
 }
 
 .fade:hover .img-con {
@@ -125,4 +125,3 @@ h3{
 }
 
 
-/*I know of the issues with the responsive collpase on the main menu.  Unfortunately I ran out of time to fix it.*/
